@@ -1,0 +1,40 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+Nový projekt
+	+Složka
+		index.html
+		o_firme.html
+		cenik.html
+		kontakt.html
+		minilogo.png
+		minilogo.jpg
+[Open project files]
+0=index.html
+1=o_firme.html
+2=cenik.html
+3=kontakt.html
+[Selected Project Files]
+Main=
+Selected=o_firme.html
+[index.html]
+TopLine=43
+Caret=56,63
+[o_firme.html]
+TopLine=19
+Caret=47,67
+[cenik.html]
+TopLine=35
+Caret=1,1
+[kontakt.html]
+TopLine=28
+Caret=32,58
